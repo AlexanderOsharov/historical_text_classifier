@@ -7,7 +7,7 @@ HTCHM создан для обработки текстов и нахожден�
 
 ```bash
 pip install git+https://github.com/yourusername/historical_text_classifier.git
-
+```
 ## Использование
 
 ```python
